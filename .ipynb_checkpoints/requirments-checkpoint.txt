@@ -1,3 +1,0 @@
-pandas
-openbb[all]
-nasdaq-data-link
